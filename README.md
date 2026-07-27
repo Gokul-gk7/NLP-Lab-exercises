@@ -38,7 +38,7 @@ spaCy
 NumPy
 
 👨‍💻 Author
-Dinesh M
+GOKULA KRITINAN R
 
 B.Tech Artificial Intelligence & Data Science
 
