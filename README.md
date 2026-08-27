@@ -22,6 +22,12 @@ This repository contains the Natural Language Processing (NLP) laboratory experi
 
 | Experiment 7 | Named Entity Recognition |
 
+| Experiment 8 | Modeling of Customer Reviews |
+
+| Experiment 9 | Rule-Based and Maximum Entropy |
+
+| Experiment 10 | Clustering Using TF-IDF and K-Means |
+
 🛠️ Technologies Used
 Python 3.x
 
